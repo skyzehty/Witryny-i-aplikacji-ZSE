@@ -9,4 +9,4 @@ Zadanie 2:
 https://skyzehty.github.io/Witryny-i-aplikacji-ZSE/Zadanie%2/
 
 Zadanie 3:
-https://skyzehty.github.io/Witryny-i-aplikacji-ZSE/Zadanie%3/
+https://skyzehty.github.io/Witryny-i-aplikacji-ZSE/Zadanie%203/index.html
